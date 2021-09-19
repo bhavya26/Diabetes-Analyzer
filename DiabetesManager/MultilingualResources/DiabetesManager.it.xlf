@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="it" original="DIABETESMANAGER/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="DIABETESMANAGER/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="AboutText1.Text" translate="yes" xml:space="preserve">
+          <source>About Us</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Dettagli sull'organizzazione</target>
+        </trans-unit>
+        <trans-unit id="AfterBreakfast.Content" translate="yes" xml:space="preserve">
+          <source>After Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Dopo la prima colazione</target>
+        </trans-unit>
+        <trans-unit id="AfterDinner.Content" translate="yes" xml:space="preserve">
+          <source>After Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Dopo cena</target>
+        </trans-unit>
+        <trans-unit id="AfterLunch.Content" translate="yes" xml:space="preserve">
+          <source>After Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Dopo il pranzo</target>
+        </trans-unit>
+        <trans-unit id="All1" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Tutti - Tempo</target>
+        </trans-unit>
+        <trans-unit id="All2" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Tutti - Tempo</target>
+        </trans-unit>
+        <trans-unit id="All3" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Tutti - Tempo</target>
+        </trans-unit>
+        <trans-unit id="AppCreated1.Text" translate="yes" xml:space="preserve">
+          <source>App Created By Bhavya Sah</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Creato da Omar Sah app</target>
+        </trans-unit>
+        <trans-unit id="AverageValue.Text" translate="yes" xml:space="preserve">
+          <source>Average Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Valore glicemico medio</target>
+        </trans-unit>
+        <trans-unit id="BeforeBreakfast.Content" translate="yes" xml:space="preserve">
+          <source>Before Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Prima colazione</target>
+        </trans-unit>
+        <trans-unit id="BeforeDinner.Content" translate="yes" xml:space="preserve">
+          <source>Before Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Prima di cena</target>
+        </trans-unit>
+        <trans-unit id="BeforeLunch.Content" translate="yes" xml:space="preserve">
+          <source>Before Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Prima di pranzo</target>
+        </trans-unit>
+        <trans-unit id="BigClick.Content" translate="yes" xml:space="preserve">
+          <source>Big Donation</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Grande donazione</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo.Content" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Colazione</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo1" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Colazione</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo2" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Colazione</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo3" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Colazione</target>
+        </trans-unit>
+        <trans-unit id="Delete1.Label" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Elimina</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo.Content" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Cena</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo1" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Cena</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo2" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Cena</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo3" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Cena</target>
+        </trans-unit>
+        <trans-unit id="Edit1.Label" translate="yes" xml:space="preserve">
+          <source>Edit Entry</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Modifica voce</target>
+        </trans-unit>
+        <trans-unit id="EditText1.Text" translate="yes" xml:space="preserve">
+          <source>Data Edited Successfully</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Dati modificati con successo</target>
+        </trans-unit>
+        <trans-unit id="EveryTime.Content" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Tutti - Tempo</target>
+        </trans-unit>
+        <trans-unit id="FeedBack1.Content" translate="yes" xml:space="preserve">
+          <source>FeedBack / Suggestions</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">FeedBack / suggerimenti</target>
+        </trans-unit>
+        <trans-unit id="GraphText1.Text" translate="yes" xml:space="preserve">
+          <source>Graphs</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Grafici</target>
+        </trans-unit>
+        <trans-unit id="Green1.Text" translate="yes" xml:space="preserve">
+          <source>Normal Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Valore normale del glucosio</target>
+        </trans-unit>
+        <trans-unit id="HistoryPop11.Text" translate="yes" xml:space="preserve">
+          <source>Now Try Pro Mode which Enables Various New Features</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ora provare modalità Pro che consente varie nuove funzionalità</target>
+        </trans-unit>
+        <trans-unit id="HistoryPop22.Text" translate="yes" xml:space="preserve">
+          <source>Just Click On the Bottom Right Corner of The Page/Visit the About Page</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Basta fare clic su nell'angolo inferiore destro della pagina/Visita la pagina</target>
+        </trans-unit>
+        <trans-unit id="HistoryText1.Text" translate="yes" xml:space="preserve">
+          <source>History</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Cronologia</target>
+        </trans-unit>
+        <trans-unit id="HomeText1.Text" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Home</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo.Content" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Pranzo</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo1" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Pranzo</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo2" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Pranzo</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo3" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Pranzo</target>
+        </trans-unit>
+        <trans-unit id="Maximum1.Text" translate="yes" xml:space="preserve">
+          <source>Maximum Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Valore massimo del glucosio</target>
+        </trans-unit>
+        <trans-unit id="Minimum1.Text" translate="yes" xml:space="preserve">
+          <source>Minimum Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Valore minimo del glucosio</target>
+        </trans-unit>
+        <trans-unit id="Past11.Content" translate="yes" xml:space="preserve">
+          <source>Past 1 Year</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Passato 1 anno</target>
+        </trans-unit>
+        <trans-unit id="Past301.Content" translate="yes" xml:space="preserve">
+          <source>Past 30 Days</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Negli ultimi 30 giorni</target>
+        </trans-unit>
+        <trans-unit id="Past61.Content" translate="yes" xml:space="preserve">
+          <source>Past 6 Months</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Ultimi 6 mesi</target>
+        </trans-unit>
+        <trans-unit id="Past901.Content" translate="yes" xml:space="preserve">
+          <source>Past 90 Days</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ultimi 90 giorni</target>
+        </trans-unit>
+        <trans-unit id="ProMode1.Label" translate="yes" xml:space="preserve">
+          <source>Unlock Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Sbloccare modalità Pro</target>
+        </trans-unit>
+        <trans-unit id="ProModeButton1.Content" translate="yes" xml:space="preserve">
+          <source>Buy Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Acquista Pro Mode</target>
+        </trans-unit>
+        <trans-unit id="ProPop11.Text" translate="yes" xml:space="preserve">
+          <source>Pro Mode Contains the Following Features:</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Modalità Pro contiene le seguenti funzionalità:</target>
+        </trans-unit>
+        <trans-unit id="ProPop21.Text" translate="yes" xml:space="preserve">
+          <source>Export Data to Csv/Excel File Format</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Esportare dati in formato Csv/Excel</target>
+        </trans-unit>
+        <trans-unit id="ProPop31.Text" translate="yes" xml:space="preserve">
+          <source>Edit Data</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Modifica i dati</target>
+        </trans-unit>
+        <trans-unit id="ProPop41.Text" translate="yes" xml:space="preserve">
+          <source>Remove Advertisement</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Rimuovere pubblicità</target>
+        </trans-unit>
+        <trans-unit id="ProPop51.Text" translate="yes" xml:space="preserve">
+          <source>Many More Feature that are incoming in the future</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Molte più funzionalità che sono in arrivo in futuro</target>
+        </trans-unit>
+        <trans-unit id="Rate1.Content" translate="yes" xml:space="preserve">
+          <source>Rate And Review</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Vota e commenta</target>
+        </trans-unit>
+        <trans-unit id="Red1.Text" translate="yes" xml:space="preserve">
+          <source>High Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Valore alto glucosio</target>
+        </trans-unit>
+        <trans-unit id="RemoveAdv1.Content" translate="yes" xml:space="preserve">
+          <source>Remove Advertisement</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Rimuovere pubblicità</target>
+        </trans-unit>
+        <trans-unit id="Select1.Label" translate="yes" xml:space="preserve">
+          <source>Select</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Seleziona</target>
+        </trans-unit>
+        <trans-unit id="Small1.Content" translate="yes" xml:space="preserve">
+          <source>Small Donation</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Piccola donazione</target>
+        </trans-unit>
+        <trans-unit id="StatText1.Text" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Statistiche</target>
+        </trans-unit>
+        <trans-unit id="Submit1.Content" translate="yes" xml:space="preserve">
+          <source>Submit</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Invia</target>
+        </trans-unit>
+        <trans-unit id="SubmitText1.Text" translate="yes" xml:space="preserve">
+          <source>Data Submitted Successfully</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Dati presentati con successo</target>
+        </trans-unit>
+        <trans-unit id="SwipePop11.Text" translate="yes" xml:space="preserve">
+          <source>Please Swipe To Acess the Other Conten</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Per favore passare il dito su Acess l'altro Conten</target>
+        </trans-unit>
+        <trans-unit id="SwipePop21.Text" translate="yes" xml:space="preserve">
+          <source>People With Mouse Can Press the Button available on the Right Boundary of the App</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Persone con Mouse possono premere il pulsante disponibile sul limite destro dell'App</target>
+        </trans-unit>
+        <trans-unit id="SwipePop31.Text" translate="yes" xml:space="preserve">
+          <source>Statistics Page Will Not Show Stats For Old Data Due to Change in the way Data is Showed.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Statistiche pagina verrà non Visualizza statistiche per vecchi dati dovuto cambiamento nel modo di dati è mostrato.</target>
+        </trans-unit>
+        <trans-unit id="SwipePop41.Text" translate="yes" xml:space="preserve">
+          <source>Thus Due to this an error will be thrown if new Data not entered.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Così a causa di questo errore verrà generato se non inseriti nuovi dati.</target>
+        </trans-unit>
+        <trans-unit id="SwipePop51.Text" translate="yes" xml:space="preserve">
+          <source>Sorry For The Inconveniance Caused</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Mi dispiace per la Inconveniance causata</target>
+        </trans-unit>
+        <trans-unit id="Twitter1.Text" translate="yes" xml:space="preserve">
+          <source>Twitter : @bhavya26</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Twitter: @bhavya26</target>
+        </trans-unit>
+        <trans-unit id="Unlocked1.Label" translate="yes" xml:space="preserve">
+          <source>Export to CSV</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Esporta in formato CSV</target>
+        </trans-unit>
+        <trans-unit id="Week1.Content" translate="yes" xml:space="preserve">
+          <source>This Week</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Settimana corrente</target>
+        </trans-unit>
+        <trans-unit id="WhatsNew11.Text" translate="yes" xml:space="preserve">
+          <source>• Anniversary Update with ProMode Now on Flat 50% Discount upto 31st March</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">La versione seguente contiene le seguenti funzioni:</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew21.Text" translate="yes" xml:space="preserve">
+          <source>• A Complete New Logo</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Un nuovo Logo completo</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew31.Text" translate="yes" xml:space="preserve">
+          <source>• Reduced App Size Significantly</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Dimensione dell'App ha ridotto drasticamente</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew41.Text" translate="yes" xml:space="preserve">
+          <source>• Completely ReDesigned Statistics Page</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Completamente ridisegnata pagina statistiche</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew51.Text" translate="yes" xml:space="preserve">
+          <source>• Now Know if your Glucose is High or Normal with History Page</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ora sapere se il glucosio è alta o normale con pagina di storia</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew61.Text" translate="yes" xml:space="preserve">
+          <source>• A New Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Una nuova modalità Pro</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew71.Text" translate="yes" xml:space="preserve">
+          <source>• Ability to Edit Data (Only Pro Mode Users)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Possibilità di modificare i dati (solo per utenti Pro Mode)</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew81.Text" translate="yes" xml:space="preserve">
+          <source>• New Animation for Graphs</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nuova animazione per grafici</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="Calender2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Select a Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Selezionare una data</target>
+        </trans-unit>
+        <trans-unit id="Glucose1.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Immettere il valore di glucosio</target>
+        </trans-unit>
+        <trans-unit id="PleaseSelect1.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Pleast Select</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pleast Select</target>
+        </trans-unit>
+        <trans-unit id="PleaseSelect2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Please Select</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Si prega di selezionare</target>
+        </trans-unit>
+        <trans-unit id="Glucose2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Immettere il valore di glucosio</target>
+        </trans-unit>
+        <trans-unit id="AfterB11.Content" translate="yes" xml:space="preserve">
+          <source>After Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Dopo la prima colazione</target>
+        </trans-unit>
+        <trans-unit id="AfterD11.Content" translate="yes" xml:space="preserve">
+          <source>After Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Dopo cena</target>
+        </trans-unit>
+        <trans-unit id="AfterL11.Content" translate="yes" xml:space="preserve">
+          <source>After Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Dopo il pranzo</target>
+        </trans-unit>
+        <trans-unit id="BeforeB11.Content" translate="yes" xml:space="preserve">
+          <source>Before Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Prima colazione</target>
+        </trans-unit>
+        <trans-unit id="BeforeD11.Content" translate="yes" xml:space="preserve">
+          <source>Before Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Prima di cena</target>
+        </trans-unit>
+        <trans-unit id="BeforeL11.Content" translate="yes" xml:space="preserve">
+          <source>Before Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Prima di pranzo</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo4.Content" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Colazione</target>
+        </trans-unit>
+        <trans-unit id="Calender4.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Select a Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Selezionare una data</target>
+        </trans-unit>
+        <trans-unit id="Comments4.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Comment</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Inserisci commento</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo4.Content" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Cena</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo4.Content" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Pranzo</target>
+        </trans-unit>
+        <trans-unit id="PleaseSelect4.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Please Select</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Si prega di selezionare</target>
+        </trans-unit>
+        <trans-unit id="Submit4.Content" translate="yes" xml:space="preserve">
+          <source>Submit</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Invia</target>
+        </trans-unit>
+        <trans-unit id="Comments2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Comment</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Inserisci commento</target>
+        </trans-unit>
+        <trans-unit id="Print1.Label" translate="yes" xml:space="preserve">
+          <source>Print This Page</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Stampa la pagina</target>
+        </trans-unit>
+        <trans-unit id="ProPop61.Text" translate="yes" xml:space="preserve">
+          <source>Print History Page Directly From The App</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Stampare la pagina di storia direttamente dall'App</target>
+        </trans-unit>
+        <trans-unit id="WhatsNew101.Text" translate="yes" xml:space="preserve">
+          <source>• Added Print Function to Graphs</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">• Aggiungere commenti durante l'immissione di dati</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew111.Text" translate="yes" xml:space="preserve">
+          <source>• Now Print the History Page Directly From the App.(Only Pro Mode Users)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">• Ora stampare la pagina cronologia direttamente dalla app. (solo per utenti Pro Mode)</target>
+        </trans-unit>
+        <trans-unit id="WhatsNew91.Text" translate="yes" xml:space="preserve">
+          <source>Version 2.3.0.0 Contains Following Features</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Versione 2.2.0.0 contiene le seguenti caratteristiche</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="UnlockPro2.Label" translate="yes" xml:space="preserve">
+          <source>Unlock Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Sbloccare modalità Pro</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

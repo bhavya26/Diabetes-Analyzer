@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutText1.Text" xml:space="preserve">
+    <value>Informatie</value>
+  </data>
+  <data name="AfterBreakfast.Content" xml:space="preserve">
+    <value>Na het ontbijt</value>
+  </data>
+  <data name="AfterDinner.Content" xml:space="preserve">
+    <value>Na het diner</value>
+  </data>
+  <data name="AfterLunch.Content" xml:space="preserve">
+    <value>Na de Lunch</value>
+  </data>
+  <data name="All1" xml:space="preserve">
+    <value>Tijd Alle</value>
+  </data>
+  <data name="All2" xml:space="preserve">
+    <value>Tijd Alle</value>
+  </data>
+  <data name="All3" xml:space="preserve">
+    <value>Tijd Alle</value>
+  </data>
+  <data name="AppCreated1.Text" xml:space="preserve">
+    <value>Gemaakt door Bhavya Sah app</value>
+  </data>
+  <data name="AverageValue.Text" xml:space="preserve">
+    <value>Gemiddelde Glucose waarde</value>
+  </data>
+  <data name="BeforeBreakfast.Content" xml:space="preserve">
+    <value>Voor het ontbijt</value>
+  </data>
+  <data name="BeforeDinner.Content" xml:space="preserve">
+    <value>Voor het diner</value>
+  </data>
+  <data name="BeforeLunch.Content" xml:space="preserve">
+    <value>Voor de Lunch</value>
+  </data>
+  <data name="BigClick.Content" xml:space="preserve">
+    <value>Grote donatie</value>
+  </data>
+  <data name="BreakfastCombo.Content" xml:space="preserve">
+    <value>Ontbijt</value>
+  </data>
+  <data name="BreakfastCombo1" xml:space="preserve">
+    <value>Ontbijt</value>
+  </data>
+  <data name="BreakfastCombo2" xml:space="preserve">
+    <value>Ontbijt</value>
+  </data>
+  <data name="BreakfastCombo3" xml:space="preserve">
+    <value>Ontbijt</value>
+  </data>
+  <data name="Delete1.Label" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="DinnerCombo.Content" xml:space="preserve">
+    <value>Diner</value>
+  </data>
+  <data name="DinnerCombo1" xml:space="preserve">
+    <value>Diner</value>
+  </data>
+  <data name="DinnerCombo2" xml:space="preserve">
+    <value>Diner</value>
+  </data>
+  <data name="DinnerCombo3" xml:space="preserve">
+    <value>Diner</value>
+  </data>
+  <data name="Edit1.Label" xml:space="preserve">
+    <value>Vermelding bewerken</value>
+  </data>
+  <data name="EditText1.Text" xml:space="preserve">
+    <value>Gegevens bewerkt met succes</value>
+  </data>
+  <data name="EveryTime.Content" xml:space="preserve">
+    <value>Tijd Alle</value>
+  </data>
+  <data name="FeedBack1.Content" xml:space="preserve">
+    <value>FeedBack / suggesties</value>
+  </data>
+  <data name="GraphText1.Text" xml:space="preserve">
+    <value>Diagrammen</value>
+  </data>
+  <data name="Green1.Text" xml:space="preserve">
+    <value>Normaal Glucose waarde</value>
+  </data>
+  <data name="HistoryPop11.Text" xml:space="preserve">
+    <value>Probeer nu Pro-modus welke kunt verschillende nieuwe functies</value>
+  </data>
+  <data name="HistoryPop22.Text" xml:space="preserve">
+    <value>Klik enkel op de bodem juiste hoek van de pagina/bezoek de over pagina</value>
+  </data>
+  <data name="HistoryText1.Text" xml:space="preserve">
+    <value>Overzicht</value>
+  </data>
+  <data name="HomeText1.Text" xml:space="preserve">
+    <value>Thuis</value>
+  </data>
+  <data name="LunchCombo.Content" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="LunchCombo1" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="LunchCombo2" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="LunchCombo3" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="Maximum1.Text" xml:space="preserve">
+    <value>Maximale Glucose waarde</value>
+  </data>
+  <data name="Minimum1.Text" xml:space="preserve">
+    <value>Minimale Glucose waarde</value>
+  </data>
+  <data name="Past11.Content" xml:space="preserve">
+    <value>Afgelopen 1 jaar</value>
+  </data>
+  <data name="Past301.Content" xml:space="preserve">
+    <value>Afgelopen 30 dagen</value>
+  </data>
+  <data name="Past61.Content" xml:space="preserve">
+    <value>Afgelopen 6 maanden</value>
+  </data>
+  <data name="Past901.Content" xml:space="preserve">
+    <value>Afgelopen 90 dagen</value>
+  </data>
+  <data name="ProMode1.Label" xml:space="preserve">
+    <value>Ontgrendelen van Pro-modus</value>
+  </data>
+  <data name="ProModeButton1.Content" xml:space="preserve">
+    <value>Kopen van Pro-modus</value>
+  </data>
+  <data name="ProPop11.Text" xml:space="preserve">
+    <value>Pro modus bevat de volgende functies:</value>
+  </data>
+  <data name="ProPop21.Text" xml:space="preserve">
+    <value>Gegevens exporteren naar Csv/Excel-bestandsindeling</value>
+  </data>
+  <data name="ProPop31.Text" xml:space="preserve">
+    <value>Gegevens bewerken</value>
+  </data>
+  <data name="ProPop41.Text" xml:space="preserve">
+    <value>Advertentie verwijderen</value>
+  </data>
+  <data name="ProPop51.Text" xml:space="preserve">
+    <value>Veel meer functie die binnenkomende in de toekomst</value>
+  </data>
+  <data name="Rate1.Content" xml:space="preserve">
+    <value>Tarief en herziening</value>
+  </data>
+  <data name="Red1.Text" xml:space="preserve">
+    <value>Hoge Glucose waarde</value>
+  </data>
+  <data name="RemoveAdv1.Content" xml:space="preserve">
+    <value>Advertentie verwijderen</value>
+  </data>
+  <data name="Select1.Label" xml:space="preserve">
+    <value>Selecteer</value>
+  </data>
+  <data name="Small1.Content" xml:space="preserve">
+    <value>Kleine donatie</value>
+  </data>
+  <data name="StatText1.Text" xml:space="preserve">
+    <value>Statistieken</value>
+  </data>
+  <data name="Submit1.Content" xml:space="preserve">
+    <value>Verzenden</value>
+  </data>
+  <data name="SubmitText1.Text" xml:space="preserve">
+    <value>Gegevens verzonden</value>
+  </data>
+  <data name="SwipePop11.Text" xml:space="preserve">
+    <value>Gelieve de andere Conten aan Acess jatten</value>
+  </data>
+  <data name="SwipePop21.Text" xml:space="preserve">
+    <value>Mensen met muis kunnen druk op de knop beschikbaar op de grens rechts van de App</value>
+  </data>
+  <data name="SwipePop31.Text" xml:space="preserve">
+    <value>Statistieken pagina zal niet Toon Stats voor oude gegevens wegens verandering in de manier waarop Data wordt getoond.</value>
+  </data>
+  <data name="SwipePop41.Text" xml:space="preserve">
+    <value>Dus als gevolg van deze zal foutmelding gegooid worden als de nieuwe gegevens niet ingevoerd.</value>
+  </data>
+  <data name="SwipePop51.Text" xml:space="preserve">
+    <value>Sorry voor de Inconveniance veroorzaakt</value>
+  </data>
+  <data name="Twitter1.Text" xml:space="preserve">
+    <value>Twitter: @bhavya26</value>
+  </data>
+  <data name="Unlocked1.Label" xml:space="preserve">
+    <value>Exporteren naar CSV</value>
+  </data>
+  <data name="Week1.Content" xml:space="preserve">
+    <value>Deze week</value>
+  </data>
+  <data name="WhatsNew11.Text" xml:space="preserve">
+    <value>De volgende versie bevat deze functies:</value>
+  </data>
+  <data name="WhatsNew21.Text" xml:space="preserve">
+    <value>Een compleet nieuw Logo</value>
+  </data>
+  <data name="WhatsNew31.Text" xml:space="preserve">
+    <value>De grootte van de App drastisch gereduceerd</value>
+  </data>
+  <data name="WhatsNew41.Text" xml:space="preserve">
+    <value>Volledig herontworpen statistiekenpagina</value>
+  </data>
+  <data name="WhatsNew51.Text" xml:space="preserve">
+    <value>Nu weten of uw Glucose hoog of normaal met geschiedenis pagina is</value>
+  </data>
+  <data name="WhatsNew61.Text" xml:space="preserve">
+    <value>Een nieuwe Pro-modus</value>
+  </data>
+  <data name="WhatsNew71.Text" xml:space="preserve">
+    <value>Mogelijkheid van het bewerken van gegevens (alleen Pro modus gebruikers)</value>
+  </data>
+  <data name="WhatsNew81.Text" xml:space="preserve">
+    <value>Nieuwe animatie voor grafieken</value>
+  </data>
+  <data name="Calender2.PlaceholderText" xml:space="preserve">
+    <value>Selecteer een datum</value>
+  </data>
+  <data name="Glucose1.PlaceholderText" xml:space="preserve">
+    <value>Glucose waarde invoeren</value>
+  </data>
+  <data name="PleaseSelect1.PlaceholderText" xml:space="preserve">
+    <value>Pleast selecteren</value>
+  </data>
+  <data name="PleaseSelect2.PlaceholderText" xml:space="preserve">
+    <value>Gelieve te selecteren</value>
+  </data>
+  <data name="Glucose2.PlaceholderText" xml:space="preserve">
+    <value>Glucose waarde invoeren</value>
+  </data>
+  <data name="AfterB11.Content" xml:space="preserve">
+    <value>Na het ontbijt</value>
+  </data>
+  <data name="AfterD11.Content" xml:space="preserve">
+    <value>Na het diner</value>
+  </data>
+  <data name="AfterL11.Content" xml:space="preserve">
+    <value>Na de Lunch</value>
+  </data>
+  <data name="BeforeB11.Content" xml:space="preserve">
+    <value>Voor het ontbijt</value>
+  </data>
+  <data name="BeforeD11.Content" xml:space="preserve">
+    <value>Voor het diner</value>
+  </data>
+  <data name="BeforeL11.Content" xml:space="preserve">
+    <value>Voor de Lunch</value>
+  </data>
+  <data name="BreakfastCombo4.Content" xml:space="preserve">
+    <value>Ontbijt</value>
+  </data>
+  <data name="Calender4.PlaceholderText" xml:space="preserve">
+    <value>Selecteer een datum</value>
+  </data>
+  <data name="Comments4.PlaceholderText" xml:space="preserve">
+    <value>Geef commentaar</value>
+  </data>
+  <data name="DinnerCombo4.Content" xml:space="preserve">
+    <value>Diner</value>
+  </data>
+  <data name="LunchCombo4.Content" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="PleaseSelect4.PlaceholderText" xml:space="preserve">
+    <value>Gelieve te selecteren</value>
+  </data>
+  <data name="Submit4.Content" xml:space="preserve">
+    <value>Opslaan</value>
+  </data>
+  <data name="Comments2.PlaceholderText" xml:space="preserve">
+    <value>Geef commentaar</value>
+  </data>
+  <data name="Print1.Label" xml:space="preserve">
+    <value>Deze pagina afdrukken</value>
+  </data>
+  <data name="ProPop61.Text" xml:space="preserve">
+    <value>Geschiedenis afdrukken direct vanuit de App</value>
+  </data>
+  <data name="WhatsNew101.Text" xml:space="preserve">
+    <value>• Nu opmerkingen toevoegen bij het invoeren van gegevens</value>
+  </data>
+  <data name="WhatsNew111.Text" xml:space="preserve">
+    <value>• Nu de pagina geschiedenis rechtstreeks afdrukken vanuit de App. (alleen Pro modus gebruikers)</value>
+  </data>
+  <data name="WhatsNew91.Text" xml:space="preserve">
+    <value>Versie 2.2.0.0 bevat de volgende functies</value>
+  </data>
+  <data name="UnlockPro2.Label" xml:space="preserve">
+    <value>Ontgrendelen van Pro-modus</value>
+  </data>
+</root>

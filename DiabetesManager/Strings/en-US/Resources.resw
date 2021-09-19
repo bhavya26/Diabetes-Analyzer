@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutText1.Text" xml:space="preserve">
+    <value>About Us</value>
+  </data>
+  <data name="AfterB11.Content" xml:space="preserve">
+    <value>After Breakfast</value>
+  </data>
+  <data name="AfterBreakfast.Content" xml:space="preserve">
+    <value>After Breakfast</value>
+  </data>
+  <data name="AfterD11.Content" xml:space="preserve">
+    <value>After Dinner</value>
+  </data>
+  <data name="AfterDinner.Content" xml:space="preserve">
+    <value>After Dinner</value>
+  </data>
+  <data name="AfterL11.Content" xml:space="preserve">
+    <value>After Lunch</value>
+  </data>
+  <data name="AfterLunch.Content" xml:space="preserve">
+    <value>After Lunch</value>
+  </data>
+  <data name="All1" xml:space="preserve">
+    <value>All Time</value>
+  </data>
+  <data name="All2" xml:space="preserve">
+    <value>All Time</value>
+  </data>
+  <data name="All3" xml:space="preserve">
+    <value>All Time</value>
+  </data>
+  <data name="AppCreated1.Text" xml:space="preserve">
+    <value>App Created By Bhavya Sah</value>
+  </data>
+  <data name="AverageValue.Text" xml:space="preserve">
+    <value>Average Glucose Value</value>
+  </data>
+  <data name="BeforeB11.Content" xml:space="preserve">
+    <value>Before Breakfast</value>
+  </data>
+  <data name="BeforeBreakfast.Content" xml:space="preserve">
+    <value>Before Breakfast</value>
+  </data>
+  <data name="BeforeD11.Content" xml:space="preserve">
+    <value>Before Dinner</value>
+  </data>
+  <data name="BeforeDinner.Content" xml:space="preserve">
+    <value>Before Dinner</value>
+  </data>
+  <data name="BeforeL11.Content" xml:space="preserve">
+    <value>Before Lunch</value>
+  </data>
+  <data name="BeforeLunch.Content" xml:space="preserve">
+    <value>Before Lunch</value>
+  </data>
+  <data name="BigClick.Content" xml:space="preserve">
+    <value>Big Donation</value>
+  </data>
+  <data name="BreakfastCombo.Content" xml:space="preserve">
+    <value>Breakfast</value>
+  </data>
+  <data name="BreakfastCombo1" xml:space="preserve">
+    <value>Breakfast</value>
+  </data>
+  <data name="BreakfastCombo2" xml:space="preserve">
+    <value>Breakfast</value>
+  </data>
+  <data name="BreakfastCombo3" xml:space="preserve">
+    <value>Breakfast</value>
+  </data>
+  <data name="BreakfastCombo4.Content" xml:space="preserve">
+    <value>Breakfast</value>
+  </data>
+  <data name="Calender2.PlaceholderText" xml:space="preserve">
+    <value>Select a Date</value>
+  </data>
+  <data name="Calender4.PlaceholderText" xml:space="preserve">
+    <value>Select a Date</value>
+  </data>
+  <data name="Comments2.PlaceholderText" xml:space="preserve">
+    <value>Enter Comment</value>
+  </data>
+  <data name="Comments4.PlaceholderText" xml:space="preserve">
+    <value>Enter Comment</value>
+  </data>
+  <data name="Delete1.Label" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="DinnerCombo.Content" xml:space="preserve">
+    <value>Dinner</value>
+  </data>
+  <data name="DinnerCombo1" xml:space="preserve">
+    <value>Dinner</value>
+  </data>
+  <data name="DinnerCombo2" xml:space="preserve">
+    <value>Dinner</value>
+  </data>
+  <data name="DinnerCombo3" xml:space="preserve">
+    <value>Dinner</value>
+  </data>
+  <data name="DinnerCombo4.Content" xml:space="preserve">
+    <value>Dinner</value>
+  </data>
+  <data name="Edit1.Label" xml:space="preserve">
+    <value>Edit Entry</value>
+  </data>
+  <data name="EditText1.Text" xml:space="preserve">
+    <value>Data Edited Successfully</value>
+  </data>
+  <data name="EveryTime.Content" xml:space="preserve">
+    <value>All Time</value>
+  </data>
+  <data name="FeedBack1.Content" xml:space="preserve">
+    <value>FeedBack / Suggestions</value>
+  </data>
+  <data name="Glucose1.PlaceholderText" xml:space="preserve">
+    <value>Enter Glucose Value</value>
+  </data>
+  <data name="Glucose2.PlaceholderText" xml:space="preserve">
+    <value>Enter Glucose Value</value>
+  </data>
+  <data name="GraphText1.Text" xml:space="preserve">
+    <value>Graphs</value>
+  </data>
+  <data name="Green1.Text" xml:space="preserve">
+    <value>Normal Glucose Value</value>
+  </data>
+  <data name="HistoryPop11.Text" xml:space="preserve">
+    <value>Now Try Pro Mode which Enables Various New Features</value>
+  </data>
+  <data name="HistoryPop22.Text" xml:space="preserve">
+    <value>Just Click On the Bottom Right Corner of The Page/Visit the About Page</value>
+  </data>
+  <data name="HistoryText1.Text" xml:space="preserve">
+    <value>History</value>
+  </data>
+  <data name="HomeText1.Text" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="LunchCombo.Content" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="LunchCombo1" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="LunchCombo2" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="LunchCombo3" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="LunchCombo4.Content" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="Maximum1.Text" xml:space="preserve">
+    <value>Maximum Glucose Value</value>
+  </data>
+  <data name="Minimum1.Text" xml:space="preserve">
+    <value>Minimum Glucose Value</value>
+  </data>
+  <data name="Past11.Content" xml:space="preserve">
+    <value>Past 1 Year</value>
+  </data>
+  <data name="Past301.Content" xml:space="preserve">
+    <value>Past 30 Days</value>
+  </data>
+  <data name="Past61.Content" xml:space="preserve">
+    <value>Past 6 Months</value>
+  </data>
+  <data name="Past901.Content" xml:space="preserve">
+    <value>Past 90 Days</value>
+  </data>
+  <data name="PleaseSelect1.PlaceholderText" xml:space="preserve">
+    <value>Pleast Select</value>
+  </data>
+  <data name="PleaseSelect2.PlaceholderText" xml:space="preserve">
+    <value>Please Select</value>
+  </data>
+  <data name="PleaseSelect4.PlaceholderText" xml:space="preserve">
+    <value>Please Select</value>
+  </data>
+  <data name="Print1.Label" xml:space="preserve">
+    <value>Print This Page</value>
+  </data>
+  <data name="ProMode1.Label" xml:space="preserve">
+    <value>Unlock Pro Mode</value>
+  </data>
+  <data name="ProModeButton1.Content" xml:space="preserve">
+    <value>Buy Pro Mode</value>
+  </data>
+  <data name="ProPop11.Text" xml:space="preserve">
+    <value>Pro Mode Contains the Following Features:</value>
+  </data>
+  <data name="ProPop21.Text" xml:space="preserve">
+    <value>Export Data to Csv/Excel File Format</value>
+  </data>
+  <data name="ProPop31.Text" xml:space="preserve">
+    <value>Edit Data</value>
+  </data>
+  <data name="ProPop41.Text" xml:space="preserve">
+    <value>Remove Advertisement</value>
+  </data>
+  <data name="ProPop51.Text" xml:space="preserve">
+    <value>Many More Feature that are incoming in the future</value>
+  </data>
+  <data name="ProPop61.Text" xml:space="preserve">
+    <value>Print History Page Directly From The App</value>
+  </data>
+  <data name="Rate1.Content" xml:space="preserve">
+    <value>Rate And Review</value>
+  </data>
+  <data name="Red1.Text" xml:space="preserve">
+    <value>High Glucose Value</value>
+  </data>
+  <data name="RemoveAdv1.Content" xml:space="preserve">
+    <value>Remove Advertisement</value>
+  </data>
+  <data name="Select1.Label" xml:space="preserve">
+    <value>Select</value>
+  </data>
+  <data name="Small1.Content" xml:space="preserve">
+    <value>Small Donation</value>
+  </data>
+  <data name="StatText1.Text" xml:space="preserve">
+    <value>Statistics</value>
+  </data>
+  <data name="Submit1.Content" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="Submit4.Content" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="SubmitText1.Text" xml:space="preserve">
+    <value>Data Submitted Successfully</value>
+  </data>
+  <data name="SwipePop11.Text" xml:space="preserve">
+    <value>Please Swipe To Acess the Other Conten</value>
+  </data>
+  <data name="SwipePop21.Text" xml:space="preserve">
+    <value>People With Mouse Can Press the Button available on the Right Boundary of the App</value>
+  </data>
+  <data name="SwipePop31.Text" xml:space="preserve">
+    <value>Statistics Page Will Not Show Stats For Old Data Due to Change in the way Data is Showed.</value>
+  </data>
+  <data name="SwipePop41.Text" xml:space="preserve">
+    <value>Thus Due to this an error will be thrown if new Data not entered.</value>
+  </data>
+  <data name="SwipePop51.Text" xml:space="preserve">
+    <value>Sorry For The Inconveniance Caused</value>
+  </data>
+  <data name="Twitter1.Text" xml:space="preserve">
+    <value>Twitter : @bhavya26</value>
+  </data>
+  <data name="Unlocked1.Label" xml:space="preserve">
+    <value>Export to CSV</value>
+  </data>
+  <data name="UnlockPro2.Label" xml:space="preserve">
+    <value>Unlock Pro Mode</value>
+  </data>
+  <data name="Week1.Content" xml:space="preserve">
+    <value>This Week</value>
+  </data>
+  <data name="WhatsNew101.Text" xml:space="preserve">
+    <value>• Added Print Function to Graphs</value>
+  </data>
+  <data name="WhatsNew11.Text" xml:space="preserve">
+    <value>• Anniversary Update with ProMode Now on Flat 50% Discount upto 31st March</value>
+  </data>
+  <data name="WhatsNew111.Text" xml:space="preserve">
+    <value>• Now Print the History Page Directly From the App.(Only Pro Mode Users)</value>
+  </data>
+  <data name="WhatsNew21.Text" xml:space="preserve">
+    <value>• A Complete New Logo</value>
+  </data>
+  <data name="WhatsNew31.Text" xml:space="preserve">
+    <value>• Reduced App Size Significantly</value>
+  </data>
+  <data name="WhatsNew41.Text" xml:space="preserve">
+    <value>• Completely ReDesigned Statistics Page</value>
+  </data>
+  <data name="WhatsNew51.Text" xml:space="preserve">
+    <value>• Now Know if your Glucose is High or Normal with History Page</value>
+  </data>
+  <data name="WhatsNew61.Text" xml:space="preserve">
+    <value>• A New Pro Mode</value>
+  </data>
+  <data name="WhatsNew71.Text" xml:space="preserve">
+    <value>• Ability to Edit Data (Only Pro Mode Users)</value>
+  </data>
+  <data name="WhatsNew81.Text" xml:space="preserve">
+    <value>• New Animation for Graphs</value>
+  </data>
+  <data name="WhatsNew91.Text" xml:space="preserve">
+    <value>Version 2.3.0.0 Contains Following Features</value>
+  </data>
+</root>

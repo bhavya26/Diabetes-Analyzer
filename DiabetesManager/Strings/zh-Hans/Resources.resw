@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutText1.Text" xml:space="preserve">
+    <value>关于我们</value>
+  </data>
+  <data name="AfterBreakfast.Content" xml:space="preserve">
+    <value>早餐后</value>
+  </data>
+  <data name="AfterDinner.Content" xml:space="preserve">
+    <value>吃过晚饭后</value>
+  </data>
+  <data name="AfterLunch.Content" xml:space="preserve">
+    <value>午饭后</value>
+  </data>
+  <data name="All1" xml:space="preserve">
+    <value>全部时间</value>
+  </data>
+  <data name="All2" xml:space="preserve">
+    <value>全部时间</value>
+  </data>
+  <data name="All3" xml:space="preserve">
+    <value>全部时间</value>
+  </data>
+  <data name="AppCreated1.Text" xml:space="preserve">
+    <value>由 Bhavya Sah 创建的应用程序</value>
+  </data>
+  <data name="AverageValue.Text" xml:space="preserve">
+    <value>平均血糖值</value>
+  </data>
+  <data name="BeforeBreakfast.Content" xml:space="preserve">
+    <value>早餐前</value>
+  </data>
+  <data name="BeforeDinner.Content" xml:space="preserve">
+    <value>在晚餐前</value>
+  </data>
+  <data name="BeforeLunch.Content" xml:space="preserve">
+    <value>午饭前</value>
+  </data>
+  <data name="BigClick.Content" xml:space="preserve">
+    <value>大捐赠</value>
+  </data>
+  <data name="BreakfastCombo.Content" xml:space="preserve">
+    <value>早餐</value>
+  </data>
+  <data name="BreakfastCombo1" xml:space="preserve">
+    <value>早餐</value>
+  </data>
+  <data name="BreakfastCombo2" xml:space="preserve">
+    <value>早餐</value>
+  </data>
+  <data name="BreakfastCombo3" xml:space="preserve">
+    <value>早餐</value>
+  </data>
+  <data name="Delete1.Label" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="DinnerCombo.Content" xml:space="preserve">
+    <value>晚餐</value>
+  </data>
+  <data name="DinnerCombo1" xml:space="preserve">
+    <value>晚餐</value>
+  </data>
+  <data name="DinnerCombo2" xml:space="preserve">
+    <value>晚餐</value>
+  </data>
+  <data name="DinnerCombo3" xml:space="preserve">
+    <value>晚餐</value>
+  </data>
+  <data name="Edit1.Label" xml:space="preserve">
+    <value>编辑条目</value>
+  </data>
+  <data name="EditText1.Text" xml:space="preserve">
+    <value>数据已成功编辑</value>
+  </data>
+  <data name="EveryTime.Content" xml:space="preserve">
+    <value>全部时间</value>
+  </data>
+  <data name="FeedBack1.Content" xml:space="preserve">
+    <value>反馈 / 建议</value>
+  </data>
+  <data name="GraphText1.Text" xml:space="preserve">
+    <value>图形</value>
+  </data>
+  <data name="Green1.Text" xml:space="preserve">
+    <value>正常血糖值</value>
+  </data>
+  <data name="HistoryPop11.Text" xml:space="preserve">
+    <value>现在尝试 Pro 模式，使各种新功能</value>
+  </data>
+  <data name="HistoryPop22.Text" xml:space="preserve">
+    <value>只需点击右下角的页面的访问网页</value>
+  </data>
+  <data name="HistoryText1.Text" xml:space="preserve">
+    <value>历史记录</value>
+  </data>
+  <data name="HomeText1.Text" xml:space="preserve">
+    <value>主页</value>
+  </data>
+  <data name="LunchCombo.Content" xml:space="preserve">
+    <value>午餐</value>
+  </data>
+  <data name="LunchCombo1" xml:space="preserve">
+    <value>午餐</value>
+  </data>
+  <data name="LunchCombo2" xml:space="preserve">
+    <value>午餐</value>
+  </data>
+  <data name="LunchCombo3" xml:space="preserve">
+    <value>午餐</value>
+  </data>
+  <data name="Maximum1.Text" xml:space="preserve">
+    <value>最高血糖值</value>
+  </data>
+  <data name="Minimum1.Text" xml:space="preserve">
+    <value>最低的血糖值</value>
+  </data>
+  <data name="Past11.Content" xml:space="preserve">
+    <value>过去 1 年</value>
+  </data>
+  <data name="Past301.Content" xml:space="preserve">
+    <value>过去 30 天</value>
+  </data>
+  <data name="Past61.Content" xml:space="preserve">
+    <value>过去 6 个月</value>
+  </data>
+  <data name="Past901.Content" xml:space="preserve">
+    <value>过去 90 天</value>
+  </data>
+  <data name="ProMode1.Label" xml:space="preserve">
+    <value>解锁临模式</value>
+  </data>
+  <data name="ProModeButton1.Content" xml:space="preserve">
+    <value>买临模式</value>
+  </data>
+  <data name="ProPop11.Text" xml:space="preserve">
+    <value>临模式包含以下功能︰</value>
+  </data>
+  <data name="ProPop21.Text" xml:space="preserve">
+    <value>将数据导出到 Csv/Excel 文件格式</value>
+  </data>
+  <data name="ProPop31.Text" xml:space="preserve">
+    <value>编辑数据</value>
+  </data>
+  <data name="ProPop41.Text" xml:space="preserve">
+    <value>删除广告</value>
+  </data>
+  <data name="ProPop51.Text" xml:space="preserve">
+    <value>许多更多的功能，在将来是传入</value>
+  </data>
+  <data name="Rate1.Content" xml:space="preserve">
+    <value>率和审查</value>
+  </data>
+  <data name="Red1.Text" xml:space="preserve">
+    <value>高血糖值</value>
+  </data>
+  <data name="RemoveAdv1.Content" xml:space="preserve">
+    <value>删除广告</value>
+  </data>
+  <data name="Select1.Label" xml:space="preserve">
+    <value>选择</value>
+  </data>
+  <data name="Small1.Content" xml:space="preserve">
+    <value>小小的捐赠</value>
+  </data>
+  <data name="StatText1.Text" xml:space="preserve">
+    <value>統計資料</value>
+  </data>
+  <data name="Submit1.Content" xml:space="preserve">
+    <value>提交</value>
+  </data>
+  <data name="SubmitText1.Text" xml:space="preserve">
+    <value>数据已成功提交</value>
+  </data>
+  <data name="SwipePop11.Text" xml:space="preserve">
+    <value>请刷到访问其他内容</value>
+  </data>
+  <data name="SwipePop21.Text" xml:space="preserve">
+    <value>鼠标的人可以在该应用程序的权利边界上按按钮可用</value>
+  </data>
+  <data name="SwipePop31.Text" xml:space="preserve">
+    <value>研究表明统计页面将不显示统计数据为旧数据由于数据方式的改变。</value>
+  </data>
+  <data name="SwipePop41.Text" xml:space="preserve">
+    <value>因此由于这将引发错误如果不输入新数据。</value>
+  </data>
+  <data name="SwipePop51.Text" xml:space="preserve">
+    <value>对不起，造成 Inconveniance</value>
+  </data>
+  <data name="Twitter1.Text" xml:space="preserve">
+    <value>推特︰ @bhavya26</value>
+  </data>
+  <data name="Unlocked1.Label" xml:space="preserve">
+    <value>导出到 CSV</value>
+  </data>
+  <data name="Week1.Content" xml:space="preserve">
+    <value>本周</value>
+  </data>
+  <data name="WhatsNew11.Text" xml:space="preserve">
+    <value>以下版本包含这些功能︰</value>
+  </data>
+  <data name="WhatsNew21.Text" xml:space="preserve">
+    <value>一个完整的新标志</value>
+  </data>
+  <data name="WhatsNew31.Text" xml:space="preserve">
+    <value>大大降低应用程序大小</value>
+  </data>
+  <data name="WhatsNew41.Text" xml:space="preserve">
+    <value>完全重新设计的统计页</value>
+  </data>
+  <data name="WhatsNew51.Text" xml:space="preserve">
+    <value>现在知道如果您的血糖高或正常与历史页</value>
+  </data>
+  <data name="WhatsNew61.Text" xml:space="preserve">
+    <value>一种新的职业模式</value>
+  </data>
+  <data name="WhatsNew71.Text" xml:space="preserve">
+    <value>能够编辑数据 （只有临模式用户）</value>
+  </data>
+  <data name="WhatsNew81.Text" xml:space="preserve">
+    <value>新动画图</value>
+  </data>
+  <data name="Calender2.PlaceholderText" xml:space="preserve">
+    <value>选择日期</value>
+  </data>
+  <data name="Glucose1.PlaceholderText" xml:space="preserve">
+    <value>输入葡萄糖值</value>
+  </data>
+  <data name="PleaseSelect1.PlaceholderText" xml:space="preserve">
+    <value>请选择</value>
+  </data>
+  <data name="PleaseSelect2.PlaceholderText" xml:space="preserve">
+    <value>请选择</value>
+  </data>
+  <data name="Glucose2.PlaceholderText" xml:space="preserve">
+    <value>输入葡萄糖值</value>
+  </data>
+  <data name="AfterB11.Content" xml:space="preserve">
+    <value>早餐后</value>
+  </data>
+  <data name="AfterD11.Content" xml:space="preserve">
+    <value>吃过晚饭后</value>
+  </data>
+  <data name="AfterL11.Content" xml:space="preserve">
+    <value>午饭后</value>
+  </data>
+  <data name="BeforeB11.Content" xml:space="preserve">
+    <value>早餐前</value>
+  </data>
+  <data name="BeforeD11.Content" xml:space="preserve">
+    <value>在晚餐前</value>
+  </data>
+  <data name="BeforeL11.Content" xml:space="preserve">
+    <value>午饭前</value>
+  </data>
+  <data name="BreakfastCombo4.Content" xml:space="preserve">
+    <value>早餐</value>
+  </data>
+  <data name="Calender4.PlaceholderText" xml:space="preserve">
+    <value>选择日期</value>
+  </data>
+  <data name="Comments4.PlaceholderText" xml:space="preserve">
+    <value>输入注释</value>
+  </data>
+  <data name="DinnerCombo4.Content" xml:space="preserve">
+    <value>晚餐</value>
+  </data>
+  <data name="LunchCombo4.Content" xml:space="preserve">
+    <value>午餐</value>
+  </data>
+  <data name="PleaseSelect4.PlaceholderText" xml:space="preserve">
+    <value>请选择</value>
+  </data>
+  <data name="Submit4.Content" xml:space="preserve">
+    <value>提交</value>
+  </data>
+  <data name="Comments2.PlaceholderText" xml:space="preserve">
+    <value>输入注释</value>
+  </data>
+  <data name="Print1.Label" xml:space="preserve">
+    <value>打印此页面</value>
+  </data>
+  <data name="ProPop61.Text" xml:space="preserve">
+    <value>直接从应用程序打印历史记录页</value>
+  </data>
+  <data name="WhatsNew101.Text" xml:space="preserve">
+    <value>• 现在输入数据时添加注释</value>
+  </data>
+  <data name="WhatsNew111.Text" xml:space="preserve">
+    <value>• 直接从应用程序 （只有临模式用户） 现在打印历史记录页</value>
+  </data>
+  <data name="WhatsNew91.Text" xml:space="preserve">
+    <value>版本 2.2.0.0 包含以下功能</value>
+  </data>
+  <data name="UnlockPro2.Label" xml:space="preserve">
+    <value>解锁临模式</value>
+  </data>
+</root>

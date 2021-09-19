@@ -1,0 +1,141 @@
+﻿<Page
+    x:Class="DiabetesManager.StatsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DiabetesManager"
+   xmlns:controls="using:Microsoft.Toolkit.Uwp.UI.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <SolidColorBrush x:Key="BackColor" Color="#1e90ff"/>
+        <SolidColorBrush x:Key="BackColor1" Color="#e6f2ff"/>
+    </Page.Resources>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        
+            
+        </Grid.RowDefinitions>
+        <ScrollViewer Name="StatsScroll" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto"
+                      Grid.Row="1" IsHoldingEnabled="True">
+            <StackPanel Grid.Row="1" Margin="0,20,0,0" >
+                <FlipView x:Name="StatsFlip" Background="White" >
+                    <FlipViewItem >
+                        <StackPanel>
+                            <StackPanel Margin="0,20,0,0" HorizontalAlignment="Center">
+                                <TextBlock Name="MinText" Text="Minimum Glucose Value" FontSize="20" FontWeight="Bold" x:Uid="Minimum1"></TextBlock>
+                            </StackPanel>
+                            <StackPanel Margin="0,20,0,0">
+                                <controls:RadialGauge 
+                  x:Name="RadialGauge"
+                  Minimum="0"
+                  Maximum="250"
+                  StepSize="1"
+                  IsInteractive="False"
+                  TickSpacing="20"
+                  ScaleWidth="26"
+                  MinAngle="-150"
+                  MaxAngle="150"
+                  Unit="Units"
+                  TickBrush="Gainsboro"
+                  ScaleTickBrush="Black"
+                  NeedleWidth="5" 
+                  TickLength="18" 
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                        Height="350"
+                        Width="350"
+                         />
+                            </StackPanel>
+                        </StackPanel>
+                    </FlipViewItem>
+                    <FlipViewItem>
+                        <StackPanel>
+                            <StackPanel Margin="0,20,0,0" HorizontalAlignment="Center">
+                                <TextBlock Name="MaxText" Text="Maximum Glucose Value" FontSize="20" FontWeight="Bold" x:Uid="Maximum1"></TextBlock>
+                            </StackPanel>
+                            <StackPanel Margin="0,20,0,0">
+                                <controls:RadialGauge 
+                  x:Name="RadialGauge1"
+                  Minimum="0"
+                  Maximum="250"
+                  StepSize="1"
+                  IsInteractive="False"
+                  TickSpacing="20"
+                  ScaleWidth="26"
+                  MinAngle="-150"
+                  MaxAngle="150"
+                  Unit="Units"
+                  TickBrush="Gainsboro"
+                  ScaleTickBrush="Black"
+                  NeedleWidth="5" 
+                  TickLength="18" 
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                        Height="350"
+                        Width="350"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </FlipViewItem>
+                    <FlipViewItem>
+                        <StackPanel>
+                            <StackPanel Margin="0,20,0,0" HorizontalAlignment="Center">
+                                <TextBlock Name="AverageText" Text="Average Glucose Value" FontSize="20" FontWeight="Bold"
+                                       x:Uid="AverageValue"></TextBlock>
+                            </StackPanel>
+                            <StackPanel Margin="0,20,0,0">
+                                <controls:RadialGauge 
+                  x:Name="RadialGauge2"
+                  Minimum="0"
+                  Maximum="250"
+                  StepSize="1"
+                  IsInteractive="False"
+                  TickSpacing="20"
+                  ScaleWidth="26"
+                  MinAngle="-150"
+                  MaxAngle="150"
+                  Unit="Units"
+                  TickBrush="Gainsboro"
+                  ScaleTickBrush="Black"
+                  NeedleWidth="5" 
+                  TickLength="18" 
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                        Height="350"
+                        Width="350"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </FlipViewItem>
+                </FlipView>
+
+            </StackPanel>
+        </ScrollViewer>
+        <StackPanel Grid.Row="0" Margin="0,20,0,0">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center"
+                        Name="StatsStack" Orientation="Horizontal">
+                <ComboBox Name="StatsCombo" Width="200" SelectionChanged="StatsCombo_SelectionChanged" PlaceholderText="Please Select" x:Uid="PleaseSelect1">
+                    <ComboBoxItem Content="All Time" Name="Item1" x:Uid="EveryTime"></ComboBoxItem>
+                    <ComboBoxItem Content="This Week"  Name="Item2" x:Uid="Week1"></ComboBoxItem>
+                    <ComboBoxItem Content="Past 30 Days" Name="Item3" x:Uid="Past301"></ComboBoxItem>
+                    <ComboBoxItem Content="Past 90 Days"
+                                  Name="Item4" x:Uid="Past901"></ComboBoxItem>
+                    <ComboBoxItem Content="Past 6 Months" Name="Item5" x:Uid="Past61"></ComboBoxItem>
+                    <ComboBoxItem Content="Past 1 Year" Name="Item6" x:Uid="Past11"></ComboBoxItem>
+                </ComboBox>
+
+            </StackPanel>
+
+            <StackPanel HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Center">
+                <ComboBox SelectionChanged="StatsCombo1_SelectionChanged"  Name="StatsCombo1" Width="200" PlaceholderText="Please Select" x:Uid="PleaseSelect2">
+                    <ComboBoxItem Content="All" Name="All" x:Uid="All3"></ComboBoxItem>
+                    <ComboBoxItem Content="Breakfast"  Name="Breakfast" x:Uid="BreakfastCombo3" ></ComboBoxItem>
+                    <ComboBoxItem Content="Lunch" Name="Lunch" x:Uid="LunchCombo3"></ComboBoxItem>
+                    <ComboBoxItem Content="Dinner" Name="Dinner" x:Uid="DinnerCombo3" ></ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+    
+</Page>
