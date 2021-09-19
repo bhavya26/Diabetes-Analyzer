@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="zh-Hans" original="DIABETESMANAGER/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="DIABETESMANAGER/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="AboutText1.Text" translate="yes" xml:space="preserve">
+          <source>About Us</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">关于我们</target>
+        </trans-unit>
+        <trans-unit id="AfterBreakfast.Content" translate="yes" xml:space="preserve">
+          <source>After Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">早餐后</target>
+        </trans-unit>
+        <trans-unit id="AfterDinner.Content" translate="yes" xml:space="preserve">
+          <source>After Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">吃过晚饭后</target>
+        </trans-unit>
+        <trans-unit id="AfterLunch.Content" translate="yes" xml:space="preserve">
+          <source>After Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">午饭后</target>
+        </trans-unit>
+        <trans-unit id="All1" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">全部时间</target>
+        </trans-unit>
+        <trans-unit id="All2" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">全部时间</target>
+        </trans-unit>
+        <trans-unit id="All3" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">全部时间</target>
+        </trans-unit>
+        <trans-unit id="AppCreated1.Text" translate="yes" xml:space="preserve">
+          <source>App Created By Bhavya Sah</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">由 Bhavya Sah 创建的应用程序</target>
+        </trans-unit>
+        <trans-unit id="AverageValue.Text" translate="yes" xml:space="preserve">
+          <source>Average Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">平均血糖值</target>
+        </trans-unit>
+        <trans-unit id="BeforeBreakfast.Content" translate="yes" xml:space="preserve">
+          <source>Before Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">早餐前</target>
+        </trans-unit>
+        <trans-unit id="BeforeDinner.Content" translate="yes" xml:space="preserve">
+          <source>Before Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">在晚餐前</target>
+        </trans-unit>
+        <trans-unit id="BeforeLunch.Content" translate="yes" xml:space="preserve">
+          <source>Before Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">午饭前</target>
+        </trans-unit>
+        <trans-unit id="BigClick.Content" translate="yes" xml:space="preserve">
+          <source>Big Donation</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">大捐赠</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo.Content" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">早餐</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo1" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">早餐</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo2" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">早餐</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo3" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">早餐</target>
+        </trans-unit>
+        <trans-unit id="Delete1.Label" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">删除</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo.Content" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">晚餐</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo1" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">晚餐</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo2" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">晚餐</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo3" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">晚餐</target>
+        </trans-unit>
+        <trans-unit id="Edit1.Label" translate="yes" xml:space="preserve">
+          <source>Edit Entry</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">编辑条目</target>
+        </trans-unit>
+        <trans-unit id="EditText1.Text" translate="yes" xml:space="preserve">
+          <source>Data Edited Successfully</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">数据已成功编辑</target>
+        </trans-unit>
+        <trans-unit id="EveryTime.Content" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">全部时间</target>
+        </trans-unit>
+        <trans-unit id="FeedBack1.Content" translate="yes" xml:space="preserve">
+          <source>FeedBack / Suggestions</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">反馈 / 建议</target>
+        </trans-unit>
+        <trans-unit id="GraphText1.Text" translate="yes" xml:space="preserve">
+          <source>Graphs</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">图形</target>
+        </trans-unit>
+        <trans-unit id="Green1.Text" translate="yes" xml:space="preserve">
+          <source>Normal Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">正常血糖值</target>
+        </trans-unit>
+        <trans-unit id="HistoryPop11.Text" translate="yes" xml:space="preserve">
+          <source>Now Try Pro Mode which Enables Various New Features</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">现在尝试 Pro 模式，使各种新功能</target>
+        </trans-unit>
+        <trans-unit id="HistoryPop22.Text" translate="yes" xml:space="preserve">
+          <source>Just Click On the Bottom Right Corner of The Page/Visit the About Page</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">只需点击右下角的页面的访问网页</target>
+        </trans-unit>
+        <trans-unit id="HistoryText1.Text" translate="yes" xml:space="preserve">
+          <source>History</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">历史记录</target>
+        </trans-unit>
+        <trans-unit id="HomeText1.Text" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">主页</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo.Content" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">午餐</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo1" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">午餐</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo2" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">午餐</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo3" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">午餐</target>
+        </trans-unit>
+        <trans-unit id="Maximum1.Text" translate="yes" xml:space="preserve">
+          <source>Maximum Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">最高血糖值</target>
+        </trans-unit>
+        <trans-unit id="Minimum1.Text" translate="yes" xml:space="preserve">
+          <source>Minimum Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">最低的血糖值</target>
+        </trans-unit>
+        <trans-unit id="Past11.Content" translate="yes" xml:space="preserve">
+          <source>Past 1 Year</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">过去 1 年</target>
+        </trans-unit>
+        <trans-unit id="Past301.Content" translate="yes" xml:space="preserve">
+          <source>Past 30 Days</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">过去 30 天</target>
+        </trans-unit>
+        <trans-unit id="Past61.Content" translate="yes" xml:space="preserve">
+          <source>Past 6 Months</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">过去 6 个月</target>
+        </trans-unit>
+        <trans-unit id="Past901.Content" translate="yes" xml:space="preserve">
+          <source>Past 90 Days</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">过去 90 天</target>
+        </trans-unit>
+        <trans-unit id="ProMode1.Label" translate="yes" xml:space="preserve">
+          <source>Unlock Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">解锁临模式</target>
+        </trans-unit>
+        <trans-unit id="ProModeButton1.Content" translate="yes" xml:space="preserve">
+          <source>Buy Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">买临模式</target>
+        </trans-unit>
+        <trans-unit id="ProPop11.Text" translate="yes" xml:space="preserve">
+          <source>Pro Mode Contains the Following Features:</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">临模式包含以下功能︰</target>
+        </trans-unit>
+        <trans-unit id="ProPop21.Text" translate="yes" xml:space="preserve">
+          <source>Export Data to Csv/Excel File Format</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">将数据导出到 Csv/Excel 文件格式</target>
+        </trans-unit>
+        <trans-unit id="ProPop31.Text" translate="yes" xml:space="preserve">
+          <source>Edit Data</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">编辑数据</target>
+        </trans-unit>
+        <trans-unit id="ProPop41.Text" translate="yes" xml:space="preserve">
+          <source>Remove Advertisement</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">删除广告</target>
+        </trans-unit>
+        <trans-unit id="ProPop51.Text" translate="yes" xml:space="preserve">
+          <source>Many More Feature that are incoming in the future</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">许多更多的功能，在将来是传入</target>
+        </trans-unit>
+        <trans-unit id="Rate1.Content" translate="yes" xml:space="preserve">
+          <source>Rate And Review</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">率和审查</target>
+        </trans-unit>
+        <trans-unit id="Red1.Text" translate="yes" xml:space="preserve">
+          <source>High Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">高血糖值</target>
+        </trans-unit>
+        <trans-unit id="RemoveAdv1.Content" translate="yes" xml:space="preserve">
+          <source>Remove Advertisement</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">删除广告</target>
+        </trans-unit>
+        <trans-unit id="Select1.Label" translate="yes" xml:space="preserve">
+          <source>Select</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">选择</target>
+        </trans-unit>
+        <trans-unit id="Small1.Content" translate="yes" xml:space="preserve">
+          <source>Small Donation</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">小小的捐赠</target>
+        </trans-unit>
+        <trans-unit id="StatText1.Text" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">統計資料</target>
+        </trans-unit>
+        <trans-unit id="Submit1.Content" translate="yes" xml:space="preserve">
+          <source>Submit</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">提交</target>
+        </trans-unit>
+        <trans-unit id="SubmitText1.Text" translate="yes" xml:space="preserve">
+          <source>Data Submitted Successfully</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">数据已成功提交</target>
+        </trans-unit>
+        <trans-unit id="SwipePop11.Text" translate="yes" xml:space="preserve">
+          <source>Please Swipe To Acess the Other Conten</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">请刷到访问其他内容</target>
+        </trans-unit>
+        <trans-unit id="SwipePop21.Text" translate="yes" xml:space="preserve">
+          <source>People With Mouse Can Press the Button available on the Right Boundary of the App</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">鼠标的人可以在该应用程序的权利边界上按按钮可用</target>
+        </trans-unit>
+        <trans-unit id="SwipePop31.Text" translate="yes" xml:space="preserve">
+          <source>Statistics Page Will Not Show Stats For Old Data Due to Change in the way Data is Showed.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">研究表明统计页面将不显示统计数据为旧数据由于数据方式的改变。</target>
+        </trans-unit>
+        <trans-unit id="SwipePop41.Text" translate="yes" xml:space="preserve">
+          <source>Thus Due to this an error will be thrown if new Data not entered.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">因此由于这将引发错误如果不输入新数据。</target>
+        </trans-unit>
+        <trans-unit id="SwipePop51.Text" translate="yes" xml:space="preserve">
+          <source>Sorry For The Inconveniance Caused</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">对不起，造成 Inconveniance</target>
+        </trans-unit>
+        <trans-unit id="Twitter1.Text" translate="yes" xml:space="preserve">
+          <source>Twitter : @bhavya26</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">推特︰ @bhavya26</target>
+        </trans-unit>
+        <trans-unit id="Unlocked1.Label" translate="yes" xml:space="preserve">
+          <source>Export to CSV</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">导出到 CSV</target>
+        </trans-unit>
+        <trans-unit id="Week1.Content" translate="yes" xml:space="preserve">
+          <source>This Week</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">本周</target>
+        </trans-unit>
+        <trans-unit id="WhatsNew11.Text" translate="yes" xml:space="preserve">
+          <source>• Anniversary Update with ProMode Now on Flat 50% Discount upto 31st March</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">以下版本包含这些功能︰</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew21.Text" translate="yes" xml:space="preserve">
+          <source>• A Complete New Logo</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">一个完整的新标志</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew31.Text" translate="yes" xml:space="preserve">
+          <source>• Reduced App Size Significantly</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">大大降低应用程序大小</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew41.Text" translate="yes" xml:space="preserve">
+          <source>• Completely ReDesigned Statistics Page</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">完全重新设计的统计页</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew51.Text" translate="yes" xml:space="preserve">
+          <source>• Now Know if your Glucose is High or Normal with History Page</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">现在知道如果您的血糖高或正常与历史页</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew61.Text" translate="yes" xml:space="preserve">
+          <source>• A New Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">一种新的职业模式</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew71.Text" translate="yes" xml:space="preserve">
+          <source>• Ability to Edit Data (Only Pro Mode Users)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">能够编辑数据 （只有临模式用户）</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew81.Text" translate="yes" xml:space="preserve">
+          <source>• New Animation for Graphs</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">新动画图</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="Calender2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Select a Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">选择日期</target>
+        </trans-unit>
+        <trans-unit id="Glucose1.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">输入葡萄糖值</target>
+        </trans-unit>
+        <trans-unit id="PleaseSelect1.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Pleast Select</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">请选择</target>
+        </trans-unit>
+        <trans-unit id="PleaseSelect2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Please Select</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">请选择</target>
+        </trans-unit>
+        <trans-unit id="Glucose2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">输入葡萄糖值</target>
+        </trans-unit>
+        <trans-unit id="AfterB11.Content" translate="yes" xml:space="preserve">
+          <source>After Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">早餐后</target>
+        </trans-unit>
+        <trans-unit id="AfterD11.Content" translate="yes" xml:space="preserve">
+          <source>After Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">吃过晚饭后</target>
+        </trans-unit>
+        <trans-unit id="AfterL11.Content" translate="yes" xml:space="preserve">
+          <source>After Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">午饭后</target>
+        </trans-unit>
+        <trans-unit id="BeforeB11.Content" translate="yes" xml:space="preserve">
+          <source>Before Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">早餐前</target>
+        </trans-unit>
+        <trans-unit id="BeforeD11.Content" translate="yes" xml:space="preserve">
+          <source>Before Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">在晚餐前</target>
+        </trans-unit>
+        <trans-unit id="BeforeL11.Content" translate="yes" xml:space="preserve">
+          <source>Before Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">午饭前</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo4.Content" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">早餐</target>
+        </trans-unit>
+        <trans-unit id="Calender4.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Select a Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">选择日期</target>
+        </trans-unit>
+        <trans-unit id="Comments4.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Comment</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">输入注释</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo4.Content" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">晚餐</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo4.Content" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">午餐</target>
+        </trans-unit>
+        <trans-unit id="PleaseSelect4.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Please Select</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">请选择</target>
+        </trans-unit>
+        <trans-unit id="Submit4.Content" translate="yes" xml:space="preserve">
+          <source>Submit</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">提交</target>
+        </trans-unit>
+        <trans-unit id="Comments2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Comment</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">输入注释</target>
+        </trans-unit>
+        <trans-unit id="Print1.Label" translate="yes" xml:space="preserve">
+          <source>Print This Page</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">打印此页面</target>
+        </trans-unit>
+        <trans-unit id="ProPop61.Text" translate="yes" xml:space="preserve">
+          <source>Print History Page Directly From The App</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">直接从应用程序打印历史记录页</target>
+        </trans-unit>
+        <trans-unit id="WhatsNew101.Text" translate="yes" xml:space="preserve">
+          <source>• Added Print Function to Graphs</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">• 现在输入数据时添加注释</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew111.Text" translate="yes" xml:space="preserve">
+          <source>• Now Print the History Page Directly From the App.(Only Pro Mode Users)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">• 直接从应用程序 （只有临模式用户） 现在打印历史记录页</target>
+        </trans-unit>
+        <trans-unit id="WhatsNew91.Text" translate="yes" xml:space="preserve">
+          <source>Version 2.3.0.0 Contains Following Features</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">版本 2.2.0.0 包含以下功能</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="UnlockPro2.Label" translate="yes" xml:space="preserve">
+          <source>Unlock Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">解锁临模式</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

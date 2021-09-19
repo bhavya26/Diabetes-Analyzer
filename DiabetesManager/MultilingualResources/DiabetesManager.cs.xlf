@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="cs" original="DIABETESMANAGER/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="DIABETESMANAGER/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="AboutText1.Text" translate="yes" xml:space="preserve">
+          <source>About Us</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">O naší společnosti</target>
+        </trans-unit>
+        <trans-unit id="AfterBreakfast.Content" translate="yes" xml:space="preserve">
+          <source>After Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Po snídani</target>
+        </trans-unit>
+        <trans-unit id="AfterDinner.Content" translate="yes" xml:space="preserve">
+          <source>After Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Po večeři</target>
+        </trans-unit>
+        <trans-unit id="AfterLunch.Content" translate="yes" xml:space="preserve">
+          <source>After Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Po obědě</target>
+        </trans-unit>
+        <trans-unit id="BeforeBreakfast.Content" translate="yes" xml:space="preserve">
+          <source>Before Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Před snídaní</target>
+        </trans-unit>
+        <trans-unit id="BeforeDinner.Content" translate="yes" xml:space="preserve">
+          <source>Before Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Před večeří</target>
+        </trans-unit>
+        <trans-unit id="BeforeLunch.Content" translate="yes" xml:space="preserve">
+          <source>Before Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Před obědem</target>
+        </trans-unit>
+        <trans-unit id="EveryTime.Content" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Čas – vše</target>
+        </trans-unit>
+        <trans-unit id="AppCreated1.Text" translate="yes" xml:space="preserve">
+          <source>App Created By Bhavya Sah</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Aplikace vytvořené pomocí Sah Jiří</target>
+        </trans-unit>
+        <trans-unit id="AverageValue.Text" translate="yes" xml:space="preserve">
+          <source>Average Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hodnota průměrné hladiny glukózy</target>
+        </trans-unit>
+        <trans-unit id="BigClick.Content" translate="yes" xml:space="preserve">
+          <source>Big Donation</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Velký dar</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo.Content" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Snídaně</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo.Content" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Večeře</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo.Content" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Oběd</target>
+        </trans-unit>
+        <trans-unit id="Delete1.Label" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Odstranit</target>
+        </trans-unit>
+        <trans-unit id="Edit1.Label" translate="yes" xml:space="preserve">
+          <source>Edit Entry</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Upravit položku</target>
+        </trans-unit>
+        <trans-unit id="EditText1.Text" translate="yes" xml:space="preserve">
+          <source>Data Edited Successfully</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Data úspěšně upravil</target>
+        </trans-unit>
+        <trans-unit id="FeedBack1.Content" translate="yes" xml:space="preserve">
+          <source>FeedBack / Suggestions</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Zpětná vazba / návrhy</target>
+        </trans-unit>
+        <trans-unit id="ProModeButton1.Content" translate="yes" xml:space="preserve">
+          <source>Buy Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Koupit Pro režim</target>
+        </trans-unit>
+        <trans-unit id="Rate1.Content" translate="yes" xml:space="preserve">
+          <source>Rate And Review</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hodnotit a recenzovat</target>
+        </trans-unit>
+        <trans-unit id="RemoveAdv1.Content" translate="yes" xml:space="preserve">
+          <source>Remove Advertisement</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Odstranit inzerát</target>
+        </trans-unit>
+        <trans-unit id="Small1.Content" translate="yes" xml:space="preserve">
+          <source>Small Donation</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Malý dar</target>
+        </trans-unit>
+        <trans-unit id="GraphText1.Text" translate="yes" xml:space="preserve">
+          <source>Graphs</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Grafy</target>
+        </trans-unit>
+        <trans-unit id="Green1.Text" translate="yes" xml:space="preserve">
+          <source>Normal Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hodnota normálního glykemie</target>
+        </trans-unit>
+        <trans-unit id="Red1.Text" translate="yes" xml:space="preserve">
+          <source>High Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hodnota vysoké glykemie</target>
+        </trans-unit>
+        <trans-unit id="HistoryPop11.Text" translate="yes" xml:space="preserve">
+          <source>Now Try Pro Mode which Enables Various New Features</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Teď zkuste režim Pro které umožňuje různé nové funkce</target>
+        </trans-unit>
+        <trans-unit id="HistoryPop22.Text" translate="yes" xml:space="preserve">
+          <source>Just Click On the Bottom Right Corner of The Page/Visit the About Page</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Stačí kliknout na pravém dolním rohu stránky/návštěva o stránce</target>
+        </trans-unit>
+        <trans-unit id="HistoryText1.Text" translate="yes" xml:space="preserve">
+          <source>History</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Historie</target>
+        </trans-unit>
+        <trans-unit id="HomeText1.Text" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Domů</target>
+        </trans-unit>
+        <trans-unit id="Maximum1.Text" translate="yes" xml:space="preserve">
+          <source>Maximum Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hodnota maximální hladiny glukózy</target>
+        </trans-unit>
+        <trans-unit id="Minimum1.Text" translate="yes" xml:space="preserve">
+          <source>Minimum Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hodnota minimální hladiny glukózy</target>
+        </trans-unit>
+        <trans-unit id="Past11.Content" translate="yes" xml:space="preserve">
+          <source>Past 1 Year</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Za 1 rok</target>
+        </trans-unit>
+        <trans-unit id="Past301.Content" translate="yes" xml:space="preserve">
+          <source>Past 30 Days</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Posledních 30 dní</target>
+        </trans-unit>
+        <trans-unit id="Past61.Content" translate="yes" xml:space="preserve">
+          <source>Past 6 Months</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Posledních 6 měsíců</target>
+        </trans-unit>
+        <trans-unit id="Past901.Content" translate="yes" xml:space="preserve">
+          <source>Past 90 Days</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Za 90 dní</target>
+        </trans-unit>
+        <trans-unit id="ProMode1.Label" translate="yes" xml:space="preserve">
+          <source>Unlock Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Odemknout režim Pro</target>
+        </trans-unit>
+        <trans-unit id="Select1.Label" translate="yes" xml:space="preserve">
+          <source>Select</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Výběr</target>
+        </trans-unit>
+        <trans-unit id="Unlocked1.Label" translate="yes" xml:space="preserve">
+          <source>Export to CSV</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Export do souboru CSV</target>
+        </trans-unit>
+        <trans-unit id="ProPop11.Text" translate="yes" xml:space="preserve">
+          <source>Pro Mode Contains the Following Features:</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Režim pro obsahuje následující funkce:</target>
+        </trans-unit>
+        <trans-unit id="ProPop21.Text" translate="yes" xml:space="preserve">
+          <source>Export Data to Csv/Excel File Format</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Exportovat Data do formátu souboru Csv nebo Excel</target>
+        </trans-unit>
+        <trans-unit id="ProPop31.Text" translate="yes" xml:space="preserve">
+          <source>Edit Data</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Upravit data</target>
+        </trans-unit>
+        <trans-unit id="ProPop41.Text" translate="yes" xml:space="preserve">
+          <source>Remove Advertisement</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Odstranit inzerát</target>
+        </trans-unit>
+        <trans-unit id="ProPop51.Text" translate="yes" xml:space="preserve">
+          <source>Many More Feature that are incoming in the future</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Mnoho více funkce, která jsou příchozí v budoucnosti</target>
+        </trans-unit>
+        <trans-unit id="StatText1.Text" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Statistika</target>
+        </trans-unit>
+        <trans-unit id="Submit1.Content" translate="yes" xml:space="preserve">
+          <source>Submit</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Odeslat</target>
+        </trans-unit>
+        <trans-unit id="SubmitText1.Text" translate="yes" xml:space="preserve">
+          <source>Data Submitted Successfully</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Údaje předložené úspěšně</target>
+        </trans-unit>
+        <trans-unit id="SwipePop11.Text" translate="yes" xml:space="preserve">
+          <source>Please Swipe To Acess the Other Conten</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Prosím, přejeďte na Acess jiné Conten</target>
+        </trans-unit>
+        <trans-unit id="SwipePop21.Text" translate="yes" xml:space="preserve">
+          <source>People With Mouse Can Press the Button available on the Right Boundary of the App</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Lidé s myší můžete stisknout tlačítko dostupné na pravé ohraničení aplikace</target>
+        </trans-unit>
+        <trans-unit id="SwipePop31.Text" translate="yes" xml:space="preserve">
+          <source>Statistics Page Will Not Show Stats For Old Data Due to Change in the way Data is Showed.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Statistiky stránky se zobrazit statistiky pro staré údaje neprávem na změnu ve způsobu Data ukázala.</target>
+        </trans-unit>
+        <trans-unit id="SwipePop41.Text" translate="yes" xml:space="preserve">
+          <source>Thus Due to this an error will be thrown if new Data not entered.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tak kvůli tomu chyba bude vyvolána, pokud není zapsána nová Data.</target>
+        </trans-unit>
+        <trans-unit id="SwipePop51.Text" translate="yes" xml:space="preserve">
+          <source>Sorry For The Inconveniance Caused</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Omlouváme se za způsobené Inconveniance</target>
+        </trans-unit>
+        <trans-unit id="Twitter1.Text" translate="yes" xml:space="preserve">
+          <source>Twitter : @bhavya26</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Twitter: @bhavya26</target>
+        </trans-unit>
+        <trans-unit id="Week1.Content" translate="yes" xml:space="preserve">
+          <source>This Week</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Tento týden</target>
+        </trans-unit>
+        <trans-unit id="WhatsNew11.Text" translate="yes" xml:space="preserve">
+          <source>• Anniversary Update with ProMode Now on Flat 50% Discount upto 31st March</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Následující verze obsahuje tyto prvky:</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew21.Text" translate="yes" xml:space="preserve">
+          <source>• A Complete New Logo</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kompletní nové Logo</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew31.Text" translate="yes" xml:space="preserve">
+          <source>• Reduced App Size Significantly</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Drasticky snížit velikost aplikace</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew41.Text" translate="yes" xml:space="preserve">
+          <source>• Completely ReDesigned Statistics Page</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Zcela přepracována stránka statistiky</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew51.Text" translate="yes" xml:space="preserve">
+          <source>• Now Know if your Glucose is High or Normal with History Page</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Teď vědět, jestli vaše glukózy je vysoké nebo normální s historie stránky</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew61.Text" translate="yes" xml:space="preserve">
+          <source>• A New Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nový režim Pro</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew71.Text" translate="yes" xml:space="preserve">
+          <source>• Ability to Edit Data (Only Pro Mode Users)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Schopnost upravovat Data (pouze režim Pro uživatele)</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew81.Text" translate="yes" xml:space="preserve">
+          <source>• New Animation for Graphs</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nové animace pro grafy</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="All1" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Čas – vše</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo1" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Snídaně</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo1" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Večeře</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo1" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Oběd</target>
+        </trans-unit>
+        <trans-unit id="All2" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Čas – vše</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo2" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Snídaně</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo2" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Večeře</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo2" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Oběd</target>
+        </trans-unit>
+        <trans-unit id="All3" translate="yes" xml:space="preserve">
+          <source>All Time</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Čas – vše</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo3" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Snídaně</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo3" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Večeře</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo3" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Oběd</target>
+        </trans-unit>
+        <trans-unit id="Calender2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Select a Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vyberte datum.</target>
+        </trans-unit>
+        <trans-unit id="Glucose1.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Zadejte hodnotu glukózy v krvi</target>
+        </trans-unit>
+        <trans-unit id="PleaseSelect1.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Pleast Select</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pleast výběr</target>
+        </trans-unit>
+        <trans-unit id="PleaseSelect2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Please Select</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Zvolte prosím</target>
+        </trans-unit>
+        <trans-unit id="Glucose2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Glucose Value</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Zadejte hodnotu glukózy v krvi</target>
+        </trans-unit>
+        <trans-unit id="AfterB11.Content" translate="yes" xml:space="preserve">
+          <source>After Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Po snídani</target>
+        </trans-unit>
+        <trans-unit id="AfterD11.Content" translate="yes" xml:space="preserve">
+          <source>After Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Po večeři</target>
+        </trans-unit>
+        <trans-unit id="AfterL11.Content" translate="yes" xml:space="preserve">
+          <source>After Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Po obědě</target>
+        </trans-unit>
+        <trans-unit id="BeforeB11.Content" translate="yes" xml:space="preserve">
+          <source>Before Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Před snídaní</target>
+        </trans-unit>
+        <trans-unit id="BeforeD11.Content" translate="yes" xml:space="preserve">
+          <source>Before Dinner</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Před večeří</target>
+        </trans-unit>
+        <trans-unit id="BeforeL11.Content" translate="yes" xml:space="preserve">
+          <source>Before Lunch</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Před obědem</target>
+        </trans-unit>
+        <trans-unit id="BreakfastCombo4.Content" translate="yes" xml:space="preserve">
+          <source>Breakfast</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Snídaně</target>
+        </trans-unit>
+        <trans-unit id="Calender4.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Select a Date</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vyberte datum.</target>
+        </trans-unit>
+        <trans-unit id="Comments4.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Comment</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Zadejte komentář</target>
+        </trans-unit>
+        <trans-unit id="DinnerCombo4.Content" translate="yes" xml:space="preserve">
+          <source>Dinner</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Večeře</target>
+        </trans-unit>
+        <trans-unit id="LunchCombo4.Content" translate="yes" xml:space="preserve">
+          <source>Lunch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Oběd</target>
+        </trans-unit>
+        <trans-unit id="PleaseSelect4.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Please Select</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Zvolte prosím</target>
+        </trans-unit>
+        <trans-unit id="Submit4.Content" translate="yes" xml:space="preserve">
+          <source>Submit</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Odeslat</target>
+        </trans-unit>
+        <trans-unit id="Comments2.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter Comment</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Zadejte komentář</target>
+        </trans-unit>
+        <trans-unit id="Print1.Label" translate="yes" xml:space="preserve">
+          <source>Print This Page</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Vytiskne tuto stránku.</target>
+        </trans-unit>
+        <trans-unit id="ProPop61.Text" translate="yes" xml:space="preserve">
+          <source>Print History Page Directly From The App</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tisk historie stránky přímo z aplikace</target>
+        </trans-unit>
+        <trans-unit id="WhatsNew101.Text" translate="yes" xml:space="preserve">
+          <source>• Added Print Function to Graphs</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">• Nyní přidávat komentáře při zadávání dat</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="WhatsNew111.Text" translate="yes" xml:space="preserve">
+          <source>• Now Print the History Page Directly From the App.(Only Pro Mode Users)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">• Nyní vytisknout stránku historie přímo z aplikace (pouze režim Pro uživatele)</target>
+        </trans-unit>
+        <trans-unit id="WhatsNew91.Text" translate="yes" xml:space="preserve">
+          <source>Version 2.3.0.0 Contains Following Features</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Verze 2.2.0.0 obsahuje následující funkce</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="UnlockPro2.Label" translate="yes" xml:space="preserve">
+          <source>Unlock Pro Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Odemknout režim Pro</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

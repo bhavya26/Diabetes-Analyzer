@@ -1,0 +1,155 @@
+﻿<Page
+    x:Class="DiabetesManager.HistoryPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DiabetesManager"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:data="using:DiabetesManager.Models"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <SolidColorBrush x:Key="BackColor" Color="#1e90ff"></SolidColorBrush>
+        <SolidColorBrush x:Key="BackColor1" Color="#e6f2ff"></SolidColorBrush>
+    </Page.Resources>
+   
+
+   
+
+
+    <ScrollViewer  Name="Scroll" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto" 
+                      Height="Auto" Width="Auto"
+                       IsHoldingEnabled="True"
+                      Grid.Row="1">
+        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="VisualStateGroup">
+                <VisualState x:Name="Narrow">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="0"></AdaptiveTrigger>
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                            <Setter Target="ListStack.Width" Value="150"></Setter>
+                     </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="Compact">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="600"/>
+                    </VisualState.StateTriggers>
+                        <VisualState.Setters>
+                        </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="Wide">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="900"/>
+                    </VisualState.StateTriggers>
+                        <VisualState.Setters>
+                            <Setter Target="ListStack.Width" Value="200"></Setter>
+                        </VisualState.Setters>
+                </VisualState>
+
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+            <Grid x:Name="Container"
+                  Grid.RowSpan="2"
+                  Opacity="0" />
+            <StackPanel Grid.Row="1">
+                <StackPanel>
+                    <Grid x:Name="PrintGrid">
+                        <StackPanel x:Name="PrintStack">
+                    <GridView x:Name="BreakfastList" Margin="20,0,0,0">
+                        <GridView.ItemTemplate>
+                            <DataTemplate  x:DataType="data:DbManager">
+                                
+                                <StackPanel Name="OuterGridStack" Loaded="OuterGridStack_Loaded" >
+                                 
+                                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" BorderBrush="Black" BorderThickness="2" 
+                                                Width="150" Name="ListStack" Height="200">
+                                        <TextBlock Text="{Binding Reading}" Margin="0,10,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+                                        <TextBlock Text="{Binding Reading1}" Margin="0,10,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+                                        <TextBlock Text="{Binding Date}" Margin="0,10,0,0" HorizontalAlignment="Center" VerticalAlignment="Center"  ></TextBlock>
+                                        <StackPanel Margin="0,10,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                            <TextBlock Text="Glucose Value: "></TextBlock>
+                                            <TextBlock Text="{Binding Glucose}"></TextBlock>
+                                        </StackPanel>
+                                        <StackPanel Margin="0,10,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                            <TextBlock Text="Time: " ></TextBlock>
+                                            <TextBlock Text="{x:Bind Time}"></TextBlock>
+                                        </StackPanel>
+                                        <StackPanel Margin="0,10,0,0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                            <TextBlock Text="{x:Bind Comments}"></TextBlock>
+                                        </StackPanel>
+
+                                    </StackPanel>
+                                    
+                                </StackPanel>
+
+                            </DataTemplate>
+
+                        </GridView.ItemTemplate>
+                    </GridView>
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+            </StackPanel>
+        <StackPanel Grid.Row="0"  >
+                <StackPanel HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Center">
+                    <ComboBox SelectionChanged="ComboBox_SelectionChanged" Name="HistoryCombo" Width="200" >
+                        <ComboBoxItem Content="All" Name="Item1" IsSelected="True" x:Uid="All1"></ComboBoxItem>
+                        <ComboBoxItem Content="Breakfast"  Name="Item2" x:Uid="BreakfastCombo1" ></ComboBoxItem>
+                        <ComboBoxItem Content="Lunch" Name="Item3" x:Uid="LunchCombo1"></ComboBoxItem>
+                        <ComboBoxItem Content="Dinner" Name="Item4" x:Uid="DinnerCombo1" ></ComboBoxItem>
+                    </ComboBox>
+                </StackPanel>
+                <StackPanel Margin="20,10,0,0" HorizontalAlignment="Left">
+                    <StackPanel Orientation="Horizontal">
+                        <Rectangle Height="15" Width="15" Fill="LimeGreen"></Rectangle>
+                        <TextBlock Name="GreenText" Text="Normal Glucose Value" Margin="5,0,0,0" FontWeight="Bold" 
+                                   x:Uid="Green1"></TextBlock>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                        <Rectangle Height="15" Width="15" Fill="Red"></Rectangle>
+                        <TextBlock Name="RedText" Text="High Glucose Value" Margin="5,0,0,0" FontWeight="Bold" 
+                                   x:Uid="Red1"></TextBlock>
+                    </StackPanel>
+                </StackPanel>
+        </StackPanel>
+            
+      
+    </Grid>
+    </ScrollViewer>
+    <Page.BottomAppBar>
+        <CommandBar Background="{StaticResource BackColor}" Foreground="White">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton Name="SelectList" Icon="Bullets" Label="Select" Click="SelectList_Click"
+                              Foreground="White" x:Uid="Select1"></AppBarButton>
+                <AppBarButton Icon="Delete" Label="Delete" Click="AppBarButton_Click"
+                              Foreground="White" x:Uid="Delete1"></AppBarButton>
+                <AppBarButton  Name="ExportToCsv" Label="Unlock Pro Mode" 
+                              Click="ExportToCsv_Click" Foreground="White" x:Uid="ProMode1">
+                    <AppBarButton.Icon>
+                        <BitmapIcon UriSource="ms-appx:///Images/Unlock.png"></BitmapIcon>
+                    </AppBarButton.Icon>
+                </AppBarButton>
+                <AppBarButton  Name="UnlockedCsv" Label="Export to CSV"
+                              Click="UnlockedCsv_Click" Foreground="White" Visibility="Collapsed" x:Uid="Unlocked1">
+                    <AppBarButton.Icon>
+                        <BitmapIcon UriSource="ms-appx:///Images/Csv.png"></BitmapIcon>
+                    </AppBarButton.Icon>
+                </AppBarButton>
+                <AppBarButton Icon="Edit" Name="EditDetails" Label="Edit Entry" Click="EditDetails_Click"
+                              Foreground="White" Visibility="Collapsed" x:Uid="Edit1"></AppBarButton>
+                <AppBarButton   Name="PrintButton" Label="Print this Page" Click="PrintButton_Click" Foreground="White" Visibility="Collapsed"
+                                x:Uid="Print1">
+                    <AppBarButton.Icon>
+                        <BitmapIcon UriSource="ms-appx:///Images/printer.png"></BitmapIcon>
+                    </AppBarButton.Icon>
+                </AppBarButton>
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+</Page>

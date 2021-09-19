@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutText1.Text" xml:space="preserve">
+    <value>Quem Somos</value>
+  </data>
+  <data name="AfterBreakfast.Content" xml:space="preserve">
+    <value>Depois do pequeno almoço</value>
+  </data>
+  <data name="AfterDinner.Content" xml:space="preserve">
+    <value>Depois do jantar</value>
+  </data>
+  <data name="AfterLunch.Content" xml:space="preserve">
+    <value>Depois do almoço</value>
+  </data>
+  <data name="All1" xml:space="preserve">
+    <value>Toda Hora</value>
+  </data>
+  <data name="All2" xml:space="preserve">
+    <value>Toda Hora</value>
+  </data>
+  <data name="All3" xml:space="preserve">
+    <value>Toda Hora</value>
+  </data>
+  <data name="AppCreated1.Text" xml:space="preserve">
+    <value>Aplicativo criado por Adriano Sah</value>
+  </data>
+  <data name="AverageValue.Text" xml:space="preserve">
+    <value>Valor da glicose média</value>
+  </data>
+  <data name="BeforeBreakfast.Content" xml:space="preserve">
+    <value>Antes do pequeno almoço</value>
+  </data>
+  <data name="BeforeDinner.Content" xml:space="preserve">
+    <value>Antes do jantar</value>
+  </data>
+  <data name="BeforeLunch.Content" xml:space="preserve">
+    <value>Antes do almoço</value>
+  </data>
+  <data name="BigClick.Content" xml:space="preserve">
+    <value>Doação de grande</value>
+  </data>
+  <data name="BreakfastCombo.Content" xml:space="preserve">
+    <value>Café da Manhã</value>
+  </data>
+  <data name="BreakfastCombo1" xml:space="preserve">
+    <value>Café da Manhã</value>
+  </data>
+  <data name="BreakfastCombo2" xml:space="preserve">
+    <value>Café da Manhã</value>
+  </data>
+  <data name="BreakfastCombo3" xml:space="preserve">
+    <value>Café da Manhã</value>
+  </data>
+  <data name="Delete1.Label" xml:space="preserve">
+    <value>Excluir</value>
+  </data>
+  <data name="DinnerCombo.Content" xml:space="preserve">
+    <value>Jantar</value>
+  </data>
+  <data name="DinnerCombo1" xml:space="preserve">
+    <value>Jantar</value>
+  </data>
+  <data name="DinnerCombo2" xml:space="preserve">
+    <value>Jantar</value>
+  </data>
+  <data name="DinnerCombo3" xml:space="preserve">
+    <value>Jantar</value>
+  </data>
+  <data name="Edit1.Label" xml:space="preserve">
+    <value>Editar Entrada</value>
+  </data>
+  <data name="EditText1.Text" xml:space="preserve">
+    <value>Dados de edição com sucesso</value>
+  </data>
+  <data name="EveryTime.Content" xml:space="preserve">
+    <value>Toda Hora</value>
+  </data>
+  <data name="FeedBack1.Content" xml:space="preserve">
+    <value>Comentários / sugestões</value>
+  </data>
+  <data name="GraphText1.Text" xml:space="preserve">
+    <value>Gráficos</value>
+  </data>
+  <data name="Green1.Text" xml:space="preserve">
+    <value>Valor normal de glicose</value>
+  </data>
+  <data name="HistoryPop11.Text" xml:space="preserve">
+    <value>Agora tente modo Pro que permite que vários novos recursos</value>
+  </data>
+  <data name="HistoryPop22.Text" xml:space="preserve">
+    <value>Basta clicar no canto inferior direito da página/visita a página sobre</value>
+  </data>
+  <data name="HistoryText1.Text" xml:space="preserve">
+    <value>Histórico</value>
+  </data>
+  <data name="HomeText1.Text" xml:space="preserve">
+    <value>Página Inicial</value>
+  </data>
+  <data name="LunchCombo.Content" xml:space="preserve">
+    <value>Almoço</value>
+  </data>
+  <data name="LunchCombo1" xml:space="preserve">
+    <value>Almoço</value>
+  </data>
+  <data name="LunchCombo2" xml:space="preserve">
+    <value>Almoço</value>
+  </data>
+  <data name="LunchCombo3" xml:space="preserve">
+    <value>Almoço</value>
+  </data>
+  <data name="Maximum1.Text" xml:space="preserve">
+    <value>Valor máximo de glicose</value>
+  </data>
+  <data name="Minimum1.Text" xml:space="preserve">
+    <value>Valor mínimo de glicose</value>
+  </data>
+  <data name="Past11.Content" xml:space="preserve">
+    <value>Passado 1 ano</value>
+  </data>
+  <data name="Past301.Content" xml:space="preserve">
+    <value>Últimos 30 dias</value>
+  </data>
+  <data name="Past61.Content" xml:space="preserve">
+    <value>Últimos 6 Meses</value>
+  </data>
+  <data name="Past901.Content" xml:space="preserve">
+    <value>Últimos 90 dias</value>
+  </data>
+  <data name="ProMode1.Label" xml:space="preserve">
+    <value>Destravar o modo Pro</value>
+  </data>
+  <data name="ProModeButton1.Content" xml:space="preserve">
+    <value>Comprar Pro modo</value>
+  </data>
+  <data name="ProPop11.Text" xml:space="preserve">
+    <value>Modo pro contém os seguintes recursos:</value>
+  </data>
+  <data name="ProPop21.Text" xml:space="preserve">
+    <value>Exportar dados para o formato de arquivo Csv/Excel</value>
+  </data>
+  <data name="ProPop31.Text" xml:space="preserve">
+    <value>Editar Dados</value>
+  </data>
+  <data name="ProPop41.Text" xml:space="preserve">
+    <value>Remover anúncio</value>
+  </data>
+  <data name="ProPop51.Text" xml:space="preserve">
+    <value>Muitos mais recursos que são recebidas no futuro</value>
+  </data>
+  <data name="Rate1.Content" xml:space="preserve">
+    <value>Taxa e revisão</value>
+  </data>
+  <data name="Red1.Text" xml:space="preserve">
+    <value>Valor de glicose alta</value>
+  </data>
+  <data name="RemoveAdv1.Content" xml:space="preserve">
+    <value>Remover anúncio</value>
+  </data>
+  <data name="Select1.Label" xml:space="preserve">
+    <value>Selecione</value>
+  </data>
+  <data name="Small1.Content" xml:space="preserve">
+    <value>Pequena doação</value>
+  </data>
+  <data name="StatText1.Text" xml:space="preserve">
+    <value>Estatísticas</value>
+  </data>
+  <data name="Submit1.Content" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+  <data name="SubmitText1.Text" xml:space="preserve">
+    <value>Dados enviados com sucesso</value>
+  </data>
+  <data name="SwipePop11.Text" xml:space="preserve">
+    <value>Por favor, Swipe para acessar o outro Conten</value>
+  </data>
+  <data name="SwipePop21.Text" xml:space="preserve">
+    <value>Pessoas com Mouse podem pressionar o botão disponível no limite direito do App</value>
+  </data>
+  <data name="SwipePop31.Text" xml:space="preserve">
+    <value>Estatísticas página será não mostrar estatísticas para velhos dados devido à mudança da forma de dados é mostrado.</value>
+  </data>
+  <data name="SwipePop41.Text" xml:space="preserve">
+    <value>Assim, devido a este erro será Descartado se novos dados não entraram.</value>
+  </data>
+  <data name="SwipePop51.Text" xml:space="preserve">
+    <value>Desculpem a Inconveniance causada</value>
+  </data>
+  <data name="Twitter1.Text" xml:space="preserve">
+    <value>Twitter: @bhavya26</value>
+  </data>
+  <data name="Unlocked1.Label" xml:space="preserve">
+    <value>Exportação para CSV</value>
+  </data>
+  <data name="Week1.Content" xml:space="preserve">
+    <value>Esta Semana</value>
+  </data>
+  <data name="WhatsNew11.Text" xml:space="preserve">
+    <value>A versão seguinte contém estas características:</value>
+  </data>
+  <data name="WhatsNew21.Text" xml:space="preserve">
+    <value>Um completo novo logotipo</value>
+  </data>
+  <data name="WhatsNew31.Text" xml:space="preserve">
+    <value>Reduziu drasticamente o tamanho de App</value>
+  </data>
+  <data name="WhatsNew41.Text" xml:space="preserve">
+    <value>Completamente redesenhado página de estatísticas</value>
+  </data>
+  <data name="WhatsNew51.Text" xml:space="preserve">
+    <value>Agora saber se a sua glicose está alta ou Normal com página de história</value>
+  </data>
+  <data name="WhatsNew61.Text" xml:space="preserve">
+    <value>Um novo modo de Pro</value>
+  </data>
+  <data name="WhatsNew71.Text" xml:space="preserve">
+    <value>Capacidade de edição de dados (apenas utilizadores Pro modo)</value>
+  </data>
+  <data name="WhatsNew81.Text" xml:space="preserve">
+    <value>Nova animação para gráficos</value>
+  </data>
+  <data name="Calender2.PlaceholderText" xml:space="preserve">
+    <value>Selecione uma data</value>
+  </data>
+  <data name="Glucose1.PlaceholderText" xml:space="preserve">
+    <value>Digite o valor de glicose</value>
+  </data>
+  <data name="PleaseSelect1.PlaceholderText" xml:space="preserve">
+    <value>Pleast Select</value>
+  </data>
+  <data name="PleaseSelect2.PlaceholderText" xml:space="preserve">
+    <value>Por favor selecione</value>
+  </data>
+  <data name="Glucose2.PlaceholderText" xml:space="preserve">
+    <value>Digite o valor de glicose</value>
+  </data>
+  <data name="AfterB11.Content" xml:space="preserve">
+    <value>Depois do pequeno almoço</value>
+  </data>
+  <data name="AfterD11.Content" xml:space="preserve">
+    <value>Depois do jantar</value>
+  </data>
+  <data name="AfterL11.Content" xml:space="preserve">
+    <value>Depois do almoço</value>
+  </data>
+  <data name="BeforeB11.Content" xml:space="preserve">
+    <value>Antes do pequeno almoço</value>
+  </data>
+  <data name="BeforeD11.Content" xml:space="preserve">
+    <value>Antes do jantar</value>
+  </data>
+  <data name="BeforeL11.Content" xml:space="preserve">
+    <value>Antes do almoço</value>
+  </data>
+  <data name="BreakfastCombo4.Content" xml:space="preserve">
+    <value>Café da Manhã</value>
+  </data>
+  <data name="Calender4.PlaceholderText" xml:space="preserve">
+    <value>Selecione uma data</value>
+  </data>
+  <data name="Comments4.PlaceholderText" xml:space="preserve">
+    <value>Inserir Comentário</value>
+  </data>
+  <data name="DinnerCombo4.Content" xml:space="preserve">
+    <value>Jantar</value>
+  </data>
+  <data name="LunchCombo4.Content" xml:space="preserve">
+    <value>Almoço</value>
+  </data>
+  <data name="PleaseSelect4.PlaceholderText" xml:space="preserve">
+    <value>Por favor selecione</value>
+  </data>
+  <data name="Submit4.Content" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+  <data name="Comments2.PlaceholderText" xml:space="preserve">
+    <value>Inserir Comentário</value>
+  </data>
+  <data name="Print1.Label" xml:space="preserve">
+    <value>Imprimir esta Página</value>
+  </data>
+  <data name="ProPop61.Text" xml:space="preserve">
+    <value>Imprima a página de história diretamente do App</value>
+  </data>
+  <data name="WhatsNew101.Text" xml:space="preserve">
+    <value>• Agora adicionar comentários ao inserir dados</value>
+  </data>
+  <data name="WhatsNew111.Text" xml:space="preserve">
+    <value>• Agora imprima a página de história diretamente do App. (apenas utilizadores Pro modo)</value>
+  </data>
+  <data name="WhatsNew91.Text" xml:space="preserve">
+    <value>Versão 2.2.0.0 contém seguintes características</value>
+  </data>
+  <data name="UnlockPro2.Label" xml:space="preserve">
+    <value>Destravar o modo Pro</value>
+  </data>
+</root>
